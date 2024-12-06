@@ -4,6 +4,10 @@
 
 A **full-stack Learning Management System** (LMS) built with cutting-edge technologies for a **production-ready deployment**. This application offers scalable features and modern UI/UX to provide an exceptional e-learning experience.  
 
+
+https://github.com/user-attachments/assets/95008b77-3e9a-40ff-8b6e-30f9d49ad364
+
+
 ---
 
 ## 🎯 **Features**
